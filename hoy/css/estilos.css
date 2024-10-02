@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(95, 160, 116);
+    color: aliceblue;
+}
+h1{
+    text-align: justify;
+    padding: 10px;
+}
+im{
+    width: 50%;
+    height: auto;
+}
